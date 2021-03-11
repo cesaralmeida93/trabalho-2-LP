@@ -1,3 +1,3 @@
 # Trabalho-2-LP
 
-![GitHub Logo](/c/Users/USER/eclipse-workspace/fatec-lp/trabalho-2-lp/Cryptocurrency_logos.jpg)
+![GitHub Logo](https://github.com/cesaralmeida93/trabalho-2-LP/blob/main/Cryptocurrency_logos.jpg)
